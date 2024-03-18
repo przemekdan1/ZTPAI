@@ -20,4 +20,13 @@ kodu nie musi być,
 - plan sprintów.
 kiedy co bede chciał robić, w jakim czasie
 
-test
+lab02: 18.03
+
+- rozne typy uzytkownika (admin,uzytownik)
+- panel edycji danych uzytkownika
+- jak będą wrzucane zdjęcia do bazy danych (czy link, czy zahashowane)
+- iframe, apikey - wstawianie mapy
+
+- eventy notifikacyjne: kafka
+
+- React: przyszłościowo, reuzywalne komponenty
