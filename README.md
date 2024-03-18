@@ -19,3 +19,5 @@ podział na front, back
 kodu nie musi być,
 - plan sprintów.
 kiedy co bede chciał robić, w jakim czasie
+
+test
