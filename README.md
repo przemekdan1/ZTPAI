@@ -30,3 +30,4 @@ lab02: 18.03
 - eventy notifikacyjne: kafka
 
 - React: przyszłościowo, reuzywalne komponenty
+
