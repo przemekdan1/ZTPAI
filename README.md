@@ -30,5 +30,6 @@ lab02: 18.03
 - eventy notifikacyjne: kafka
 
 - React: przyszłościowo, reuzywalne komponenty
+- TODO: ogarnąć podsawy Reacta, spring boota i dokonczyć prezentacje
 
 
