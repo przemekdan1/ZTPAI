@@ -32,4 +32,7 @@ lab02: 18.03
 - React: przyszłościowo, reuzywalne komponenty
 - TODO: ogarnąć podsawy Reacta, spring boota i dokonczyć prezentacje
 
-
+lab 25.03
+- naastepne zajecia: 08.04 lub 15.04
+- progress chceck: wiem co było w wytycznych, pokazujemy co w tym temacie zrobilismy, jesli jakis element nie został zrobiony to bedize o to pytanie, sami mamy ustalic kto kiedy przyjddzie
+- 
