@@ -30,4 +30,13 @@ lab02: 18.03
 - eventy notifikacyjne: kafka
 
 - React: przyszłościowo, reuzywalne komponenty
+<<<<<<< HEAD
 - done
+=======
+- TODO: ogarnąć podsawy Reacta, spring boota i dokonczyć prezentacje
+
+lab 25.03
+- naastepne zajecia: 08.04 lub 15.04
+- progress chceck: wiem co było w wytycznych, pokazujemy co w tym temacie zrobilismy, jesli jakis element nie został zrobiony to bedize o to pytanie, sami mamy ustalic kto kiedy przyjddzie
+- 
+>>>>>>> 217f231346f3cc3fd3ded25828c60ca212cc0513
